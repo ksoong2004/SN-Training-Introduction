@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_script_action">
+    <sysevent_script_action action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition_script/>
+        <description/>
+        <event_name>x_86090_marketing.attendee.deleted</event_name>
+        <name>Remove attendee</name>
+        <order>100</order>
+        <script><![CDATA[(function removeAttendees() {
+	//Get marketing event from event
+	var mrkevent = new GlideRecord('x_86090_marketing_marketing_event');
+	mrkevent.get(event.parm1); 
+	//Count attendees for marketing event
+	var numOfAttendees = 0;
+	var attendees = new GlideAggregate('x_86090_marketing_attendee');
+	attendees.addQuery('marketing_event', event.parm1); 
+	attendees.addAggregate('COUNT'); //specify 'COUNT' aggregation query
+	attendees.query();
+	if(attendees.next())
+		numOfAttendees = attendees.getAggregate('COUNT'); //retrive the value of 'COUNT' aggregation query
+	//Set attendees registered field
+	mrkevent.number_of_attendees_registered = numOfAttendees;
+	mrkevent.update(); //save any changes made to object
+}());]]></script>
+        <synchronous>false</synchronous>
+        <sys_class_name>sysevent_script_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-14 19:31:11</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>71cccbbb0fb072007ffacd8ce1050e9d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Remove attendee</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Marketing Events Application" source="x_86090_marketing">b487b8460f3032007ffacd8ce1050e6b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">b487b8460f3032007ffacd8ce1050e6b</sys_scope>
+        <sys_update_name>sysevent_script_action_71cccbbb0fb072007ffacd8ce1050e9d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-14 19:49:19</sys_updated_on>
+    </sysevent_script_action>
+</record_update>

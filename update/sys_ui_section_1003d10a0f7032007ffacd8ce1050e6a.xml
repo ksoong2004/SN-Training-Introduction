@@ -5,111 +5,153 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-09 00:00:16</sys_created_on>
-            <sys_id>d403d10a0f7032007ffacd8ce1050e6a</sys_id>
+            <sys_created_on>2017-02-14 01:26:39</sys_created_on>
+            <sys_id>9ab6db6b0ffc32007ffacd8ce1050e49</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-09 00:00:16</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>city</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-09 00:00:16</sys_created_on>
-            <sys_id>5803d10a0f7032007ffacd8ce1050e6a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-09 00:00:16</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>end_date</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-09 00:00:16</sys_created_on>
-            <sys_id>d803d10a0f7032007ffacd8ce1050e6a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-09 00:00:16</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>start_date</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-09 00:00:16</sys_created_on>
-            <sys_id>5c03d10a0f7032007ffacd8ce1050e6a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-09 00:00:16</sys_updated_on>
+            <sys_updated_on>2017-02-14 01:26:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>budget</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-14 01:26:39</sys_created_on>
+            <sys_id>1eb6db6b0ffc32007ffacd8ce1050e49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-14 01:26:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>event_cost</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-14 01:26:39</sys_created_on>
+            <sys_id>9eb6db6b0ffc32007ffacd8ce1050e49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-14 01:26:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>budget_remaining</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-14 01:26:39</sys_created_on>
+            <sys_id>12b6db6b0ffc32007ffacd8ce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-14 01:26:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-09 00:00:16</sys_created_on>
-            <sys_id>dc03d10a0f7032007ffacd8ce1050e6a</sys_id>
+            <sys_created_on>2017-02-14 01:26:39</sys_created_on>
+            <sys_id>92b6db6b0ffc32007ffacd8ce1050e4a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-09 00:00:16</sys_updated_on>
+            <sys_updated_on>2017-02-14 01:26:39</sys_updated_on>
             <sys_user/>
-            <type/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number_of_attendees_expected</element>
+            <element>start_date</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-09 00:00:16</sys_created_on>
-            <sys_id>5003d10a0f7032007ffacd8ce1050e6b</sys_id>
+            <sys_created_on>2017-02-14 01:26:39</sys_created_on>
+            <sys_id>16b6db6b0ffc32007ffacd8ce1050e4a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-09 00:00:16</sys_updated_on>
+            <sys_updated_on>2017-02-14 01:26:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number_of_attendees_registered</element>
+            <element>end_date</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-09 00:00:16</sys_created_on>
-            <sys_id>d003d10a0f7032007ffacd8ce1050e6b</sys_id>
+            <sys_created_on>2017-02-14 01:26:39</sys_created_on>
+            <sys_id>96b6db6b0ffc32007ffacd8ce1050e4a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-09 00:00:16</sys_updated_on>
+            <sys_updated_on>2017-02-14 01:26:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-14 01:26:39</sys_created_on>
+            <sys_id>1ab6db6b0ffc32007ffacd8ce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-14 01:26:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sponsor</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-09 00:00:16</sys_created_on>
-            <sys_id>5403d10a0f7032007ffacd8ce1050e6b</sys_id>
+            <sys_created_on>2017-02-14 01:26:39</sys_created_on>
+            <sys_id>9ab6db6b0ffc32007ffacd8ce1050e4a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-09 00:00:16</sys_updated_on>
+            <sys_updated_on>2017-02-14 01:26:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number_of_attendees_registered</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-14 01:26:39</sys_created_on>
+            <sys_id>1eb6db6b0ffc32007ffacd8ce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-14 01:26:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number_of_attendees_expected</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-14 01:26:39</sys_created_on>
+            <sys_id>9eb6db6b0ffc32007ffacd8ce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_86090_marketing_marketing_event" sys_domain="global" view="5403d10a0f7032007ffacd8ce1050e69">1003d10a0f7032007ffacd8ce1050e6a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-14 01:26:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
