@@ -9,15 +9,15 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-02-08 22:30:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>f08ef0c20f7032007ffacd8ce1050e79</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>aba27780dbcd72009057773ebf96191b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_86090_marketing_equipment_request</sys_name>
         <sys_package display_value="Marketing Events Application" source="x_86090_marketing">b487b8460f3032007ffacd8ce1050e6b</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Marketing Events Application">b487b8460f3032007ffacd8ce1050e6b</sys_scope>
-        <sys_update_name>ua_table_licensing_config_f08ef0c20f7032007ffacd8ce1050e79</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_aba27780dbcd72009057773ebf96191b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-02-08 22:30:45</sys_updated_on>
     </ua_table_licensing_config>

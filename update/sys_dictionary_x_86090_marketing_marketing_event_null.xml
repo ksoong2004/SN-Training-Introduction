@@ -3,7 +3,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_86090_marketing_marketing_event">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>live_feed=true</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -52,8 +52,8 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-02-08 22:10:55</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>5af9b0820f7032007ffacd8ce1050e14</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_id>eba27780dbcd72009057773ebf96191c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_86090_marketing_marketing_event</sys_name>
         <sys_package display_value="Marketing Events Application" source="x_86090_marketing">b487b8460f3032007ffacd8ce1050e6b</sys_package>
         <sys_policy/>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Marketing Events Application">b487b8460f3032007ffacd8ce1050e6b</sys_scope>
         <sys_update_name>sys_dictionary_x_86090_marketing_marketing_event_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-08 22:10:55</sys_updated_on>
+        <sys_updated_on>2017-02-15 22:10:15</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
