@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Marketing Events Catalog">9f9e8558db01b2009057773ebf96196f</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-15 23:28:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c3cec9d4db01b2009057773ebf96192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing Events Catalog.catalog_marketing_events_catalog</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_86090_marketing">b487b8460f3032007ffacd8ce1050e6b</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_marketing_events_catalog">8fcec9d4db01b2009057773ebf96192b</sys_portal_page>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">b487b8460f3032007ffacd8ce1050e6b</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_c3cec9d4db01b2009057773ebf96192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-15 23:28:14</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>
